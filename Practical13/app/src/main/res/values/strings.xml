@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical13</string>
+    <string name="minput">Enter the message:</string>
+    <string name="minput1">Enter the message title:</string>
+    <string name="hint2">Your Title Here</string>
+    <string name="button">Send Notification</string>
+    <string name="hint1">Your Message Here</string>
+</resources>
