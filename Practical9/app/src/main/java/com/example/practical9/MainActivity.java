@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         listView = (ListView) findViewById(R.id.listView);
-        getJSON("http://192.168.7.46/home.php");
+        getJSON("http://10.20.0.47/home.php");
     }
 
 
